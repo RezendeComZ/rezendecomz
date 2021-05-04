@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Rezende.</h1>
-<h3 align="center">A passionate developer!</h3>
+<h1 align="center">Hi! 👋</h1>
 
 [LinkedIn](https://linkedin.com/in/gabrielrezendev/) && [Instagram](https://www.instagram.com/rezengram/)
 
